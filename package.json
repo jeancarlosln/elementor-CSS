@@ -1,0 +1,22 @@
+{
+  "name": "elementor-css",
+  "version": "1.0.0",
+  "description": "Custom CSS Elementor (PRO)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancarlosln/elementor-CSS.git"
+  },
+  "author": "Jean C.Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancarlosln/elementor-CSS/issues"
+  },
+  "homepage": "https://github.com/jeancarlosln/elementor-CSS#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
